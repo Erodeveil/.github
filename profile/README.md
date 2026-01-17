@@ -17,7 +17,7 @@ This document is also available in [Simplified Chinese.](README_zh-cn.md "简体
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-MiriaHex is a team that "we" are just starting out and opening up to the public. Before that, we were just a small group of people working on some interesting stuff!
+Erodeveil is a team that "we" are just starting out and opening up to the public. Before that, we were just a small group of people working on some interesting stuff!
 
 ## Our other projects
 
