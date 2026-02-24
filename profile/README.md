@@ -17,11 +17,7 @@ This document is also available in [Simplified Chinese.](README_zh-cn.md "简体
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Erodeveil is a team that "we" are just starting out and opening up to the public. Before that, we were just a small group of people working on some interesting stuff!
-
-## Our other projects
-
-Based on our current plans, our other project teams are not publicly available at this time. Either these projects are not "perfect" yet, or they are geared towards our organization itself... But when the time is right, we will consider making them public.
+Erodeveil is just a small group of people working on some interesting stuff!
 
 ---
 
